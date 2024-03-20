@@ -1,0 +1,39 @@
+.student-form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.student-form-title {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+}
+
+.student-form-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 50px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.student-form-button:hover {
+    background-color: #0056b3;
+}
+
+.student-table-title {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+}
+.dropdown-container{
+    margin-bottom: 20px;
+
+}

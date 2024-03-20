@@ -1,0 +1,55 @@
+{
+    "states": [
+      {
+        "name": "Maharashtra",
+        "cities": [
+          {
+            "name": "latur",
+            "pincodes": ["411533", "376466"]
+          },
+          {
+            "name": "soalpur",
+            "pincodes": ["678888", "652763"]
+          },
+          {
+            "name": "pune",
+            "pincodes": ["112233",  "445566"]
+          }
+        ]
+      },
+      {
+        "name": "Ap",
+        "cities": [
+          {
+            "name": "Citya",
+            "pincodes": ["555510", "666611"]
+          },
+          {
+            "name": "Cityb",
+            "pincodes": ["777713", "999914"]
+          },
+          {
+            "name": "Cityc",
+            "pincodes": ["777777", "000017"]
+          }
+        ]
+      },
+      {
+        "name": "dp",
+        "cities": [
+          {
+            "name": "City d",
+            "pincodes": ["777719", "888820"]
+          },
+          {
+            "name": "City e",
+            "pincodes": ["666622", "999923"]
+          },
+          {
+            "name": "City f",
+            "pincodes": ["888825", "999926"]
+          }
+        ]
+      }
+    ]
+  }
